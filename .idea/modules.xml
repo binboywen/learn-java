@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainList/ChainList.iml" filepath="$PROJECT_DIR$/ChainList/ChainList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTableToJavaClass/DataTableToJavaClass.iml" filepath="$PROJECT_DIR$/DataTableToJavaClass/DataTableToJavaClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inherit/Inherit.iml" filepath="$PROJECT_DIR$/Inherit/Inherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionOutput/JavaCollectionOutput.iml" filepath="$PROJECT_DIR$/JavaCollectionOutput/JavaCollectionOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFundamentalClass/JavaFundamentalClass.iml" filepath="$PROJECT_DIR$/JavaFundamentalClass/JavaFundamentalClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaList/JavaList.iml" filepath="$PROJECT_DIR$/JavaList/JavaList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMap/JavaMap.iml" filepath="$PROJECT_DIR$/JavaMap/JavaMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNetWork/JavaNetWork.iml" filepath="$PROJECT_DIR$/JavaNetWork/JavaNetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReflection/JavaReflection.iml" filepath="$PROJECT_DIR$/JavaReflection/JavaReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSetUtilsClass/JavaSetUtilsClass.iml" filepath="$PROJECT_DIR$/JavaSetUtilsClass/JavaSetUtilsClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_test.iml" filepath="$PROJECT_DIR$/Java_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThread/MultiThread.iml" filepath="$PROJECT_DIR$/MultiThread/MultiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOperation/NumberOperation.iml" filepath="$PROJECT_DIR$/NumberOperation/NumberOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleClass/SampleClass.iml" filepath="$PROJECT_DIR$/SampleClass/SampleClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlg/SortAlg.iml" filepath="$PROJECT_DIR$/SortAlg/SortAlg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThisKeyValue/ThisKeyValue.iml" filepath="$PROJECT_DIR$/ThisKeyValue/ThisKeyValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSynDeadLock/ThreadSynDeadLock.iml" filepath="$PROJECT_DIR$/ThreadSynDeadLock/ThreadSynDeadLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
